@@ -1,0 +1,35 @@
+{
+    "products": {
+        "101": {
+            "nombre": "Salvaje Snacks Efecto Calmante",
+            "precio": "$ 5.653",
+            "laika members": "$ 5.653"
+        },
+        "102": {
+            "nombre": "Salvaje Snacks pollo cordero  y salmón",
+            "precio": "$ 4.803",
+            "laika members": "$ 4.803"
+        },
+        "103": {
+            "nombre": "Panchos kitchen-ragú de carne, higado y remolacha",
+            "precio": "$ 7.110",
+            "laika members": "$ 6.320"
+        },
+        "104": {
+            "nombre": "Panchos kitchen estofado de pollo",
+            "precio": "$ 7.110",
+            "laika members": "$ 6.320"
+        },
+        "105": {
+            "nombre": "Panchos kitchen-heart",
+            "precio": "$ 11.610",
+            "laika members": "$ 10.320"
+        },
+        "106": {
+            "nombre": "Bocaditos con amor",
+            "precio": "$ 3.900",
+            "laika members": "$ 3.315"
+        }
+
+    }
+}
